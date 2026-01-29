@@ -3,6 +3,13 @@
 I'm a Computer Science undergraduate who enjoys building things that sit at the intersection of **logic, math, and aesthetics**.  
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c782d73-4d1e-4266-89c5-042d19d8269e"
+       width="300"
+       alt="mark02 gif" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -31,4 +38,3 @@ I'm a Computer Science undergraduate who enjoys building things that sit at the 
 
 > **Interests:** Competitive Programming, scientific computing, and generative art.
 
-![mark02](https://github.com/user-attachments/assets/1c782d73-4d1e-4266-89c5-042d19d8269e)
